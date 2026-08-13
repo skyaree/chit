@@ -2,12 +2,13 @@ added random aa
 added fun tab
 added about tab 
 added fix aa in vac servers
-fixed nospread?
+fixed nospread
 added random aa on jump
 added rgb/chroma/pastel/gradient in chams
+improved ragebot
+added backtrack shot (bugged)
+fixed crash
 ---- fixing
-improving revolver...
-adding backtrack shot...
-fixing crash... 
+nothing to fix?
 
 
