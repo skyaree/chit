@@ -16,6 +16,7 @@ fixed console logs
 fixed menu
 added unsafe features (yellow color)
 added themes 
+added zero, custom, random pitch
 and more...
 ---- fixing
 nothing to fix?
