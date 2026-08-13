@@ -13,6 +13,10 @@ added death effect (pasted from velocity lol)
 added bullets impact (also from velocity)
 widgets position saving in config
 fixed console logs
+fixed menu
+added unsafe features (yellow color)
+added themes 
+and more...
 ---- fixing
 nothing to fix?
 
