@@ -5,9 +5,9 @@ added fix aa in vac servers
 fixed nospread?
 added random aa on jump
 added rgb/chroma/pastel/gradient in chams
-fixed crash
 ---- fixing
 improving revolver...
 adding backtrack shot...
+fixing crash... 
 
 
