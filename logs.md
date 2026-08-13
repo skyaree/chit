@@ -8,6 +8,11 @@ added rgb/chroma/pastel/gradient in chams
 improved ragebot
 added backtrack shot (bugged)
 fixed crash
+added indicators in hud
+added death effect (pasted from velocity lol)
+added bullets impact (also from velocity)
+widgets position saving in config
+fixed console logs
 ---- fixing
 nothing to fix?
 
