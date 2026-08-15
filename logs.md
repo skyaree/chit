@@ -17,6 +17,11 @@ fixed menu
 added unsafe features (yellow color)
 added themes 
 added zero, custom, random pitch
+resize menu yay
+create button in cfg
+theme saves with cfg btw now
+added blur maybe i will do it better
+more clantagggggg
 and more...
 ---- fixing
 nothing to fix?
