@@ -1,3 +1,4 @@
+--- start
 added random aa
 added fun tab
 added about tab 
@@ -27,8 +28,17 @@ more clantagggggg
 improved ragebot
 fixed onshot
 added luas! (i will add lua api soon)
-and more...
----- fixing
-nothing to fix?
+added crosshair indicators
+fixed lags and misses?
+shoots in backtrack wooow
+extrapolation 14 ticks??? 
+ай лан надоел английский
+кастомные модельки добавил но не тестил
+чат логи сделал (цвет от accent в themes)
+паттерны обновлены
+профиль хз зачем
+и другое...
+---- починить
+нечего что починить?
 
 
