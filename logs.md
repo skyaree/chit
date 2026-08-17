@@ -24,7 +24,7 @@ create button in cfg
 theme saves with cfg btw now
 added blur maybe i will do it better
 more clantagggggg
---- 1.3.3
+--- 1.3.3 (fixing)
 improved ragebot
 fixed onshot
 added luas! (i will add lua api soon)
@@ -39,6 +39,6 @@ extrapolation 14 ticks???
 профиль хз зачем
 и другое...
 ---- починить
-нечего что починить?
+краши :(
 
 
